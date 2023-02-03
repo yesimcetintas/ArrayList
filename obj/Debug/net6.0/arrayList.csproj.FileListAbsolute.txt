@@ -1,0 +1,15 @@
+/Users/srknctnts/Desktop/Patika .net core/C#/arrayList/bin/Debug/net6.0/arrayList
+/Users/srknctnts/Desktop/Patika .net core/C#/arrayList/bin/Debug/net6.0/arrayList.deps.json
+/Users/srknctnts/Desktop/Patika .net core/C#/arrayList/bin/Debug/net6.0/arrayList.runtimeconfig.json
+/Users/srknctnts/Desktop/Patika .net core/C#/arrayList/bin/Debug/net6.0/arrayList.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/arrayList/bin/Debug/net6.0/arrayList.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/arrayList/obj/Debug/net6.0/arrayList.csproj.AssemblyReference.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/arrayList/obj/Debug/net6.0/arrayList.GeneratedMSBuildEditorConfig.editorconfig
+/Users/srknctnts/Desktop/Patika .net core/C#/arrayList/obj/Debug/net6.0/arrayList.AssemblyInfoInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/arrayList/obj/Debug/net6.0/arrayList.AssemblyInfo.cs
+/Users/srknctnts/Desktop/Patika .net core/C#/arrayList/obj/Debug/net6.0/arrayList.csproj.CoreCompileInputs.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/arrayList/obj/Debug/net6.0/arrayList.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/arrayList/obj/Debug/net6.0/refint/arrayList.dll
+/Users/srknctnts/Desktop/Patika .net core/C#/arrayList/obj/Debug/net6.0/arrayList.pdb
+/Users/srknctnts/Desktop/Patika .net core/C#/arrayList/obj/Debug/net6.0/arrayList.genruntimeconfig.cache
+/Users/srknctnts/Desktop/Patika .net core/C#/arrayList/obj/Debug/net6.0/ref/arrayList.dll
